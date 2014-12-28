@@ -11,7 +11,7 @@ Source0:	http://pub.mate-desktop.org/releases/1.4/%{name}-%{version}.tar.xz
 URL:		http://mate-desktop.org/
 BuildRequires:	autoconf >= 2.53
 BuildRequires:	automake >= 1:1.7
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	glib2-devel >= 2.2.3
 BuildRequires:	intltool >= 0.35
 BuildRequires:	rpmbuild(macros) >= 1.446
